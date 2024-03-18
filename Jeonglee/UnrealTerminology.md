@@ -163,4 +163,4 @@ AI 컨트롤러는 게임 안에 NPC를 나타내는 폰을 소유한다.
 
 ---
 
-https://docs.unrealengine.com/5.0/ko/unreal-engine-terminology/
+[참조](https://docs.unrealengine.com/5.0/ko/unreal-engine-terminology/)
