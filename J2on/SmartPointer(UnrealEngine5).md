@@ -23,9 +23,7 @@
   
   즉, 점유하고 있는 상태를 말한다.
   
-  이런 Hard Object Pointer가 UObject를 참조하고 있는 경우,
-  
-  GC가 Object를 참조하지 않는다. 
+  이런 Hard Object Pointer가 UObject를 참조하고 있는 경우, GC가 Object를 삭제하지 않는다. 
   
     
   
