@@ -90,7 +90,7 @@
   
 
 
-  ## Unmanaged Pointers
+# Unmanaged Pointers
   
   기본적으로 C++이 제공하는 SmartPointer랑 거의 유사하다고 생각하면 될 것 같다. 
   
