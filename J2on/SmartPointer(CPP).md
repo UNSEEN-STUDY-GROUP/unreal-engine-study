@@ -51,14 +51,13 @@ Smart Pointer – 추가기능을 가진 포인터다.
     - 어떠한 object가 오직 한 개의 참조만이 가능한 포인터
     - **복사해서 사용이 불가능**
     - **이동해서 사용은 가능**!
-        - A라는 unique_ptr에서 B라는 unique_ptr로 이동한다면, 
-        **A는 더 이상 객체를 소유하지 않음**
+        - A라는 unique_ptr에서 B라는 unique_ptr로 이동한다면, A는 더 이상 객체를 소유하지 않음
             
     ```cpp
-    **std::unique_ptr<Resource> ptr1(new Resource());
-    std::unique_ptr<Resource> ptr2;
+    std::unique_ptr<Resource> ptrA(new Resource());
+    std::unique_ptr<Resource> ptrB;
     
-    ptrB = std::move(ptrA);**
+    ptrB = std::move(ptrA);
     ```
             
 
