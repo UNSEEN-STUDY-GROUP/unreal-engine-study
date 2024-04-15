@@ -1,10 +1,12 @@
 # 언씬 언리얼 엔진 스터디
 
-Study the contents related to Unreal Engine.
+*Study the contents related to Unreal Engine.*
+
+UNSEEN 2기에서 4주간 진행한 1차 스터디그룹입니다.
 
 ## Contents
 
-*자료가 쌓이면 정리 예정*
+24-03-19 ~ 24-04-09
 
 - [C++ VS 블루프린트 성능비교](./olddrone/C++%20VS%20블루프린트%20성능비교.md)
 - [언리얼 용어 정리](./Jeonglee/UnrealTerminology.md)
@@ -14,6 +16,13 @@ Study the contents related to Unreal Engine.
 - [C++와 Unreal Engine 5의 SmartPointer에 대하여(엔진)](./J2on/SmartPointer(UnrealEngine5).md)
 - [C++와 Unreal Engine 5의 SmartPointer에 대하여(cpp)](./J2on/SmartPointer(CPP).md)
 - [언리얼 엔진의 엑터](./Inyeong/README.md)
+- [언리얼 엔진에서 테스트 코드](./Jeonglee/UnrealTestcode.md)
+- [언리얼의 모듈화 캐릭터](./Inyeong/ModularCharacter.md)
+- [언리얼 커스텀 Sky](./J2on/CustomSky.md)
+- [언리얼 엔진에서 UCL은 어떻게 사용할까?](./KwonYeongmin/언리얼%20엔진%20모듈에서는%20UCL을%20어떻게%20사용할까.md)
+- [언리얼 엔진의 분할 화면 R&D](./KwonYeongmin/언리얼%20엔진%20분할%20화면%20R&D.md)
+- [언리얼 맵 에디터 기능](./Daeseong/MapDesign.md)
+- [이득우의 언리얼 C++ 게임 개발의 정석 - 캐릭터](./MinjuCho/Rvalue_Reference_and_Move_Constructor.md)
 
 ## What?
 
